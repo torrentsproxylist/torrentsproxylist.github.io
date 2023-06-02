@@ -7,7 +7,7 @@ description: >-
 
 # 👾 EXTRATORRENT PROXY LIST
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>ExtraTorrent</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/torrentsproxylist/torrentsproxylist.github.io/master/images/extra.jpg" alt="EXTRAtorrent Proxy List"><figcaption><p>EXTRATORRENT</p></figcaption></figure>
 
 | **Extratorrent Proxy Sites**                                        | **Status** |
 | ------------------------------------------------------------------- | ---------- |

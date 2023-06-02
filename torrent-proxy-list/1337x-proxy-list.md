@@ -6,7 +6,7 @@ description: >-
 
 # 🥷 1337x PROXY LIST
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="Working 1337 torrent proxies Free Download"><figcaption><p>1337x</p></figcaption></figure>
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/1337X_logo.svg/320px-1337X_logo.svg.png" alt="1337x PROXY LIST FREE DOWNLOAD" width="563"><figcaption><p>1337x</p></figcaption></figure>
 
 | Site                                                           | Country                                                            | Status                                                       |
 | -------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
