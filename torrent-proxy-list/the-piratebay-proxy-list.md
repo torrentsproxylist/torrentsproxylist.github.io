@@ -7,7 +7,7 @@ description: >-
 
 # 🚢 THE PIRATEBAY PROXY LIST
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="the pirate bay proxy list free download" width="272"><figcaption><p>TPB</p></figcaption></figure>
+<figure><img src="https://mirrorbay.org/static/ctpb/images/tpb_logo.svg" alt="the pirate bay proxy list free download" width="375"><figcaption><p>TPB</p></figcaption></figure>
 
 | Site                                                                              | Country                                                            | Status                                                       |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
