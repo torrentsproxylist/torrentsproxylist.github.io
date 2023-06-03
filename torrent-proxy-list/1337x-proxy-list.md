@@ -17,8 +17,9 @@ description: >-
 
 OTHER MIGHT BE WORKING:
 
-| [13377x.tw](https://www.13377x.tw/)                 | New Link |
+| 1337x Proxy Sites                                   | Status   |
 | --------------------------------------------------- | -------- |
+| [13377x.tw](https://www.13377x.tw/)                 | New Link |
 | [1337x.to](https://1337x.to/)                       | Official |
 | [1337xx.to](https://www.1337xx.to/)                 | Working  |
 | [1337xto.to](https://1337xto.to/)                   | Working  |
