@@ -14,3 +14,16 @@ description: >-
 | [**p.mirrobay.org/1337x.to**](https://p.mirrobay.org/1337x.to) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**1337x-to.pages.dev**](https://1337x-to.pages.dev/)          | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**p.nowcache.com/1337x.to**](https://p.nowcache.com/1337x.to) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+
+OTHER MIGHT BE WORKING:
+
+| [13377x.tw](https://www.13377x.tw/)                 | New Link |
+| --------------------------------------------------- | -------- |
+| [1337x.to](https://1337x.to/)                       | Official |
+| [1337xx.to](https://www.1337xx.to/)                 | Working  |
+| [1337xto.to](https://1337xto.to/)                   | Working  |
+| [1337x.unblockit.bio](https://1337x.unblockit.bio/) | Working  |
+| [1337x.st](https://1337x.st/)                       | Online   |
+| [x1337x.se](https://x1337x.se/)                     | Online   |
+| [1337x.tw](https://www.1337x.tw/)                   | Online   |
+| [1377x.is](https://www.1377x.is/)                   | Online   |
