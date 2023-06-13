@@ -11,4 +11,4 @@
 ***
 
 * [▶ 123MOVIES PROXY LIST](123movies-proxy-list.md)
-* [TheRarBg Torrent Proxy List](therarbg-torrent-proxy-list.md)
+* [💿 TheRarBg Torrent Proxy List](therarbg-torrent-proxy-list.md)

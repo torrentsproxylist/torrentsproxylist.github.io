@@ -5,7 +5,7 @@ description: >-
   as TV shows, movies, music, books.
 ---
 
-# TheRarBg Torrent Proxy List
+# 💿 TheRarBg Torrent Proxy List
 
 <figure><img src=".gitbook/assets/therarbg.svg" alt=""><figcaption><p>TheRarBg</p></figcaption></figure>
 
