@@ -7,7 +7,7 @@ description: >-
 
 # 💿 TheRarBg TORRENT PROXY LIST
 
-<figure><img src="../.gitbook/assets/therarbg.svg" alt=""><figcaption><p>TheRarbg.com</p></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/torrentsproxylist/torrentsproxylist.github.io/master/.gitbook/assets/therarbg.svg" alt=""><figcaption><p>TheRarBg.com</p></figcaption></figure>
 
 | TheRarBg Proxy Sites                 | Status   |
 | ------------------------------------ | -------- |
