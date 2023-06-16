@@ -5,10 +5,11 @@ description: >-
   as TV shows, movies, music, books.
 ---
 
-# 💿 TheRarBg Torrent Proxy List
+# 💿 TheRarBg TORRENT PROXY LIST
 
-<figure><img src="../.gitbook/assets/therarbg.svg" alt=""><figcaption><p>TheRarBg</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/therarbg.svg" alt=""><figcaption><p>TheRarbg.com</p></figcaption></figure>
 
 | TheRarBg Proxy Sites                 | Status   |
 | ------------------------------------ | -------- |
 | [TheRarbg.com](https://therarbg.com) | Official |
+
