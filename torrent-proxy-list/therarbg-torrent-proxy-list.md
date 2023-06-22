@@ -9,7 +9,8 @@ description: >-
 
 <figure><img src="https://raw.githubusercontent.com/torrentsproxylist/torrentsproxylist.github.io/master/.gitbook/assets/therarbg.svg" alt="" width="375"><figcaption><p>TheRarBg.com</p></figcaption></figure>
 
-| TheRarBg Proxy Sites                 | Status   |
-| ------------------------------------ | -------- |
-| [TheRarbg.com](https://therarbg.com) | Official |
+| TheRarBg Proxy Sites                 | Status         |
+| ------------------------------------ | -------------- |
+| [TheRarbg.com](https://therarbg.com) | Official       |
+| [T-RB.org](https://t-rb.org)         | Fastest Mirror |
 
