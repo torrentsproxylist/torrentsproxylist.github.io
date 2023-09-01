@@ -21,6 +21,8 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install "cairosvg>=2.5" \
+            "mkdocs-material" \
+            "mkdocs-material-extensions" \
             "mkdocs-git-committers-plugin-2>=1.1.1" \
             "mkdocs-git-revision-date-localized-plugin>=1.0" \
             "mkdocs-minify-plugin>=0.3" \
