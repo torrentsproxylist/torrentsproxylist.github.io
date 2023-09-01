@@ -27,6 +27,6 @@ jobs:
             "mkdocs-rss-plugin>=1.2" \
             "mkdocs-redirects>=1.0" \
             "lxml" \
-            "materialx"\
+            "materialx" \
             "pillow<10"
       - run: mkdocs gh-deploy --force
