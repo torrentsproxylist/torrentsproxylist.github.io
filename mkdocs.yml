@@ -1,6 +1,8 @@
 site_name: TORRENT PROXY LIST
 site_url: https://therarbg.com
 nav:
-  - Home: README.md
+  - Home: '../README.md'
+  - RARBG: therarbg-torrent-proxy-list.md
+docs_dir: torrent-proxy-list
 theme:
     name: material
