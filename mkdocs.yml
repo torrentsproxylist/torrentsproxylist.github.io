@@ -1,0 +1,6 @@
+site_name: TORRENT PROXY LIST
+site_url: https://therarbg.com
+nav:
+  - Home: README.md
+theme:
+    name: material
