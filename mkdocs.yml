@@ -18,7 +18,6 @@ copyright: Copyright &copy; 2016 - 2023 Calcium
 # Configuration
 theme:
   name: material
-  custom_dir: material/.overrides
   features:
     - announce.dismiss
     - content.action.edit
