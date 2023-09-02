@@ -8,9 +8,8 @@ site_description: >-
 repo_name: 
 repo_url: https://github.com/torrentsproxylist
 nav:
-  - Home: '../README.md'
-  - Getting started:
-    - RARBG: therarbg-torrent-proxy-list.md
+  - Home: README.md
+  - RARBG: therarbg-torrent-proxy-list.md
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Calcium
