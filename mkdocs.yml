@@ -9,7 +9,11 @@ repo_name:
 repo_url: https://github.com/torrentsproxylist
 nav:
   - Home: README.md
+  - ThePirateBay: the-piratebay-proxy-list.md
   - RARBG: therarbg-torrent-proxy-list.md
+  - ExtraTorrent: extratorrent-proxy-list.md
+  - 1337x: 1337x-proxy-list.md
+  - 123Movies: 123movies-proxy-list.md
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Calcium
