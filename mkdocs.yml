@@ -73,6 +73,15 @@ plugins:
   - minify:
       minify_html: true
 
+# Customization
+extra:
+  annotate:
+    json: [.s2]
+  social:
+    - icon: material/pirate
+      link: https://thepiratebayproxy.github.io
+
+
 # Extensions
 markdown_extensions:
   - abbr
