@@ -13,3 +13,4 @@
 
 * [▶ 123MOVIES PROXY LIST](123movies-proxy-list.md)
 * [🎬 TamilMV Proxy List](tamilmv-proxy-list.md)
+* [🔱 VIPBox Proxy List](vipbox-proxy-list.md)
