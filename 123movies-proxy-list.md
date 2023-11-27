@@ -7,16 +7,21 @@ description: >-
 
 # ▶ 123MOVIES PROXY LIST
 
-<figure><img src="https://cdn.thelivemirror.com/wp-content/uploads/2019/12/123Movies.jpg" alt="123MOVIES PROXY LIST Free Download" width="375"><figcaption><p>123MOVIES</p></figcaption></figure>
+<figure><img src=".gitbook/assets/123Movies.jpg" alt="" width="175"><figcaption><p>123Movies</p></figcaption></figure>
 
-| 123Movies Proxy Sites                                    | Status        |
-| -------------------------------------------------------- | ------------- |
-| [123movies.sc](https://123movies.sc/)                    | Still Working |
-| [ww8.0123movie.net](https://ww8.0123movie.net/)          | New Link      |
-| [fmovies.fo](https://www.fmovies.fo/)                    | Alternative   |
-| [ww1.123moviesfree.net](https://ww1.123moviesfree.net/)  | Working       |
-| [gomovies.sx](https://gomovies.sx/)                      | Online        |
-| [wwv.la123movies.com](https://wwv.la123movies.com/home/) | Online        |
-| [ww.fmovies.com.mx](https://ww.fmovies.com.mx/)          | Alternative   |
-| [ww5.ssoap2day.to](https://ww5.ssoap2day.to/home)        | Alternative   |
-| [123moviesfun.is](https://123moviesfun.is/)              | Online        |
+| **123Movies Mirror Sites**                                            | **Status**  |
+| --------------------------------------------------------------------- | ----------- |
+| [0123movies.mov](https://0123movies.mov/)                             | New Site    |
+| [ww7.0123movie.net](https://ww7.0123movie.net/home.html)              | Working     |
+| [ww1.123moviesfree.net](https://ww1.123moviesfree.net/)               | Working     |
+| [123movies.sc](https://123movies.sc/)                                 | Working     |
+| [gomovies.sx](https://gomovies.sx/)                                   | Online      |
+| [ww5.ssoap2day.to](https://ww5.ssoap2day.to/home)                     | Online      |
+| [ww.fmovies.com.mx](https://ww.fmovies.com.mx/)                       | Alternative |
+| [wwv.la123movies.com](https://wwv.la123movies.com/home/)              | Online      |
+| [123moviesfun.is](https://123moviesfun.is/)                           | Online      |
+| [123moviesjr.cc/123movies](https://123moviesjr.cc/123movies)          | Online      |
+| [www1.123movies.domains](https://www1.123movies.domains/123movies)    | Online      |
+| [www9.0123movies.com](https://www9.0123movies.com/home.html)          | Online      |
+| [www2.123moviesfreeonline.com](https://www2.123moviesfreeonline.com/) | Online      |
+| [www.123-movies.gdn](https://www.123-movies.gdn/)                     | Online      |
