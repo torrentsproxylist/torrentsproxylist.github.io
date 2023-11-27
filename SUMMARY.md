@@ -4,7 +4,7 @@
 
 ## TORRENT PROXY LIST
 
-* [💿 TheRarBg TORRENT PROXY LIST](torrent-proxy-list/therarbg-torrent-proxy-list.md)
+* [💿 The RarBg.to TORRENT PROXY LIST](torrent-proxy-list/the-rarbg.to-torrent-proxy-list.md)
 * [🚢 THE PIRATEBAY PROXY LIST](torrent-proxy-list/the-piratebay-proxy-list.md)
 * [🥷 1337x PROXY LIST](torrent-proxy-list/1337x-proxy-list.md)
 * [👾 EXTRATORRENT PROXY LIST](torrent-proxy-list/extratorrent-proxy-list.md)

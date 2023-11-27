@@ -11,6 +11,7 @@ description: >-
 
 | Site                                                                              | Country                                                            | Status                                                       |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
+| [thepiratebay\[x\].org](https://thepiratebay.org)                                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**piratebay.pro**](https://piratebay.pro/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**mirrorbay.org**](https://mirrorbay.org/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**tpb.latestcache.com**](https://tpb.latestcache.com/)                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |

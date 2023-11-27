@@ -11,7 +11,7 @@ description: >-
 | Site                                                           | Country                                                            | Status                                                       |
 | -------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [**1337x.bz**](https://1337x.bz)                               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [**p.mirrorbay.org/1337x.to**](https://p.mirrorbay.org/1337x.to) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**p.mirrobay.org/1337x.to**](https://p.mirrobay.org/1337x.to) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**1337x-to.pages.dev**](https://1337x-to.pages.dev/)          | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**p.nowcache.com/1337x.to**](https://p.nowcache.com/1337x.to) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 
