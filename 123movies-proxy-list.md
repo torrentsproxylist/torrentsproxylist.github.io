@@ -14,7 +14,6 @@ description: >-
 | [123movies.sc](https://123movies.sc/)                    | Still Working |
 | [ww8.0123movie.net](https://ww8.0123movie.net/)          | New Link      |
 | [fmovies.fo](https://www.fmovies.fo/)                    | Alternative   |
-| [netflixery.com](https://netflixery.com/)                | Less Ads      |
 | [ww1.123moviesfree.net](https://ww1.123moviesfree.net/)  | Working       |
 | [gomovies.sx](https://gomovies.sx/)                      | Online        |
 | [wwv.la123movies.com](https://wwv.la123movies.com/home/) | Online        |
