@@ -10,9 +10,10 @@ repo_url: https://github.com/torrentsproxylist
 nav:
   - Home: README.md
   - ThePirateBay: the-piratebay-proxy-list.md
-  - RARBG: therarbg-torrent-proxy-list.md
-  - ExtraTorrent: extratorrent-proxy-list.md
+  - RARBG: the-rarbg.to-torrent-proxy-list.md
+  - TorrentGalaxy: torrent-galaxy.md
   - 1337x: 1337x-proxy-list.md
+  - ExtraTorrent: extratorrent-proxy-list.md
   - 123Movies: 123movies-proxy-list.md
 
 # Copyright
