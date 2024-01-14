@@ -7,7 +7,7 @@ description: >-
 
 # ▶ 123MOVIES PROXY LIST
 
-<figure><img src=".gitbook/assets/123Movies.jpg" alt="" width="175"><figcaption><p>123Movies</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/123Movies.jpg" alt="" width="175"><figcaption><p>123Movies</p></figcaption></figure>
 
 | **123Movies Mirror Sites**                                            | **Status**  |
 | --------------------------------------------------------------------- | ----------- |

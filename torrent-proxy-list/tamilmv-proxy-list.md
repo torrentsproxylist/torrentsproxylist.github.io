@@ -6,7 +6,7 @@ description: >-
 
 # 🎬 TamilMV Proxy List
 
-<figure><img src=".gitbook/assets/1tamilmv.webp" alt="" width="188"><figcaption><p>1TamilMV</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1tamilmv.webp" alt="" width="188"><figcaption><p>1TamilMV</p></figcaption></figure>
 
 | **TamilMV Proxy Sites**                                                          | **Status**      |
 | -------------------------------------------------------------------------------- | --------------- |

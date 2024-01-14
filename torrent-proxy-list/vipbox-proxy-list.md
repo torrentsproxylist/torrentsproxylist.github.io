@@ -7,7 +7,7 @@ description: >-
 
 # 🔱 VIPBox Proxy List
 
-<figure><img src=".gitbook/assets/images.jpeg" alt=""><figcaption><p>VIP BOX</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/images.jpeg" alt=""><figcaption><p>VIP BOX</p></figcaption></figure>
 
 | **VIPBox Proxy Sites**                                | **Status**  |
 | ----------------------------------------------------- | ----------- |
