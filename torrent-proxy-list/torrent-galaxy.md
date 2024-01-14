@@ -6,6 +6,8 @@ description: >-
 
 # 🔮 Torrent galaxy
 
+<figure><img src="../.gitbook/assets/tgxlogo.png" alt=""><figcaption><p>torrentgalaxy</p></figcaption></figure>
+
 | Site                                                                      | Country                                                            | Status                                                       |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [torrentgalaxy.one](https://torrentgalaxy.one)                            | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
