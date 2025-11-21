@@ -12,7 +12,7 @@ description: >-
 | Site                                                                              | Country                                                            | Status                                                       |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
 | [thepiratebay.baby](https://thepiratebay.baby)                                    | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [**thepiratebay.store**](https://thepiratebay.store)                              | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**thepiratebay.study**](https://thepiratebay.study/)                             | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**mirrorbay.org**](https://mirrorbay.org/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [thepiratebay.isproxy.online](https://thepiratebay.isproxy.online/)               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [thepiratebay.isproxy.space](https://thepiratebay.isproxy.space/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
