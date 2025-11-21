@@ -11,12 +11,12 @@ description: >-
 
 | Site                                                                              | Country                                                            | Status                                                       |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [thepiratebay\[x\].org](https://thepiratebay.org)                                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [**piratebay.pro**](https://piratebay.pro/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [thepiratebay.baby](https://thepiratebay.baby)                                    | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**thepiratebay.store**](https://thepiratebay.store)                              | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**mirrorbay.org**](https://mirrorbay.org/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [thepiratebay.isonline.cfd](https://thepiratebay.isonline.cfd/)           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [thepiratebay.isonline.club](https://thepiratebay.isonline.club/)               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| t[hepiratebay.isonline.click](https://thepiratebay.isonline.click/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [thepiratebay.isproxy.online](https://thepiratebay.isproxy.online/)               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [thepiratebay.isproxy.space](https://thepiratebay.isproxy.space/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| th[epiratebay.isproxy.pics](https://thepiratebay.isproxy.pics/)                   | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**tpb.curd.io**](https://tpb.curd.io/)                                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**tpb-proxies.curd.io**](https://tpb-proxies.curd.io/)                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**piratebayproxy.pages.dev**](https://piratebayproxy.pages.dev/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
