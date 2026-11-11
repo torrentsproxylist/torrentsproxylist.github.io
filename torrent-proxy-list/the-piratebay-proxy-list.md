@@ -19,5 +19,4 @@ description: >-
 | [**tpb-proxies.curd.io**](https://tpb-proxies.curd.io/)                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**piratebayproxy.pages.dev**](https://piratebayproxy.pages.dev/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**thepiratebayproxy.github.io**](https://thepiratebayproxy.github.io/)           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [**thepiratebayproxy.readthedocs.io**](https://thepiratebayproxy.readthedocs.io/) | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**thepiratebayproxy.pages.dev**](https://thepiratebayproxy.pages.dev/)           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
