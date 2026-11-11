@@ -11,12 +11,10 @@ description: >-
 
 | Site                                                                              | Country                                                            | Status                                                       |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------ |
-| [thepiratebay.baby](https://thepiratebay.baby)                                    | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [**thepiratebay.study**](https://thepiratebay.study/)                             | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**thepiratebay.skin**](https://thepiratebay.skin/)                               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**tpb.shareproxy.org**](https://tpb.shareproxy.org/)                             | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/uk.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**mirrorbay.org**](https://mirrorbay.org/)                                       | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [thepiratebay.isproxy.online](https://thepiratebay.isproxy.online/)               | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| [thepiratebay.isproxy.space](https://thepiratebay.isproxy.space/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
-| th[epiratebay.isproxy.pics](https://thepiratebay.isproxy.pics/)                   | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
+| [**tpb.proxybox.org**](https://tpb.proxybox.org/)                                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**tpb.curd.io**](https://tpb.curd.io/)                                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**tpb-proxies.curd.io**](https://tpb-proxies.curd.io/)                           | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
 | [**piratebayproxy.pages.dev**](https://piratebayproxy.pages.dev/)                 | ![uk](https://thepiratebayproxy.github.io/assets/img/flags/us.gif) | ![up](https://thepiratebayproxy.github.io/assets/img/up.png) |
