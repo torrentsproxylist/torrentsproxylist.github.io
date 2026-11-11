@@ -13,5 +13,6 @@ description: >-
 | ------------------------------------ | -------------- |
 | [TheRarbg.com](https://therarbg.com) | Official       |
 | [TheRarBg.to](https://therarbg.to)   | Official       |
-| [T-RB.org](https://t-rb.org)         | Fastest Mirror |
+| [trb.shareproxy.org](https://trb.shareproxy.org)| Mirror         |
+| [trb.proxybox.org](https://trb.proxybox.org)| Mirror         |
 
